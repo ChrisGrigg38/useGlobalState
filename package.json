@@ -1,0 +1,38 @@
+{
+  "name": "useglobalstate",
+  "version": "1.0.0",
+  "description": "A library for managing global states",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisGrigg38/useGlobalState.git"
+  },
+  "keywords": [
+    "global",
+    "state",
+    "management",
+    "redux",
+    "react",
+    "context"
+  ],
+  "author": "Chris Grigg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisGrigg38/useGlobalState/issues"
+  },
+  "homepage": "https://github.com/ChrisGrigg38/useGlobalState#readme",
+  "dependencies": {
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "jest": "^30.0.4",
+    "jest-environment-jsdom": "^30.0.4"
+  }
+}
